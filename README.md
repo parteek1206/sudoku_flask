@@ -1,2 +1,2 @@
 # sudoku_flask
-Sudoku Web App Project
+A fully functional web-based Sudoku game built using Python (Flask) and JavaScript, featuring dynamic puzzle generation with three difficulty levels, real-time validation, and an intelligent scoring system. The app includes a hint system, undo/redo functionality, and an auto-solver powered by a backtracking algorithm. Designed with a clean, responsive UI, it offers a smooth and engaging user experience across both desktop and mobile devices.
